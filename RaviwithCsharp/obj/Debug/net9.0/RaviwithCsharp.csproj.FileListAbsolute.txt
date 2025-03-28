@@ -1,0 +1,5 @@
+E:\c#\Complete_C-\RaviwithCsharp\obj\Debug\net9.0\RaviwithCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Complete_C-\RaviwithCsharp\obj\Debug\net9.0\RaviwithCsharp.AssemblyInfoInputs.cache
+E:\c#\Complete_C-\RaviwithCsharp\obj\Debug\net9.0\RaviwithCsharp.AssemblyInfo.cs
+E:\c#\Complete_C-\RaviwithCsharp\obj\Debug\net9.0\RaviwithCsharp.csproj.CoreCompileInputs.cache
+E:\c#\Complete_C-\RaviwithCsharp\obj\Debug\net9.0\RaviwithCsharp.sourcelink.json
