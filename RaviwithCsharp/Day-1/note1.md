@@ -94,9 +94,11 @@ Yellow for no change
 
 Non-blocking user exit with Console.KeyAvailable → Allows pressing ESC to exit without pausing the program.
 
-🎯 Key Learnings
+ Key Learnings
 ✅ Multi-threading (Task.Run()) → Efficient parallel processing.
+
 ✅ File Handling (File.AppendAllText()) → Storing logs securely.
+
 ✅ Console Manipulation (\r, Console.ForegroundColor) → Live UI updates.
 ✅ Non-blocking user input (Console.KeyAvailable) → Interactive experience.
 ✅ Real-time simulations (Thread.Sleep()) → Stock price monitoring.
@@ -155,7 +157,7 @@ Task.Run() → Runs logging in parallel.
 ----------------------------------------------------
 
 Q10: How do you dynamically change text color based on real-time data?
-✅ Answer:
+Answer:
 We use Console.ForegroundColor to change the text color dynamically.
  Explanation:
 Console.ForegroundColor = ConsoleColor.Green; → Changes text color based on conditions.
