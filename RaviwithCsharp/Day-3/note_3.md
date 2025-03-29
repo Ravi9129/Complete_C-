@@ -51,3 +51,4 @@ car3.DisplayCarInfo();
 Matlab ek blueprint (class) se kitne bhi objects (instances) bana sakte ho.
 ----------------------------------------------------------------------------------------
 Access Modifiers C# me data aur methods ki visibility control karne ke liye use hote hain. Ye define karte hain ki ek class, property ya method kaha aur kaun access kar sakta hai.
+
