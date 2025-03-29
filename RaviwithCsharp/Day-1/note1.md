@@ -49,11 +49,17 @@ DivideByZeroException is thrown if the user tries to divide by zero.
 InvalidOperationException is thrown for invalid operators.
 ------------------------------------------------------
 Key Takeaways
+
 ✅ Console.ReadLine() for input, Console.WriteLine() for output.
+
 ✅ Console.Clear() for clearing the console screen.
+
 ✅ Console.ForegroundColor to change text colors dynamically.
+
 ✅ Console.ReadKey(true) for secure input handling (e.g., password masking).
+
 ✅ Console.Write("\r") for progress bars or real-time updates.
+
 ✅ Exception handling (try-catch) ensures robust input validation.
 ----------------------
 Scenario 5 : Multi-Threaded Task Progress with Logging (File Handling + Progress Bar)
@@ -100,7 +106,9 @@ Non-blocking user exit with Console.KeyAvailable → Allows pressing ESC to exit
 ✅ File Handling (File.AppendAllText()) → Storing logs securely.
 
 ✅ Console Manipulation (\r, Console.ForegroundColor) → Live UI updates.
+
 ✅ Non-blocking user input (Console.KeyAvailable) → Interactive experience.
+
 ✅ Real-time simulations (Thread.Sleep()) → Stock price monitoring.
 ---------------------------------------------------------------
 Q7: How can you display real-time updates in a console application?
