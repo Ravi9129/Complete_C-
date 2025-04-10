@@ -11,7 +11,8 @@ namespace RaviwithCsharp.Day-3
     }
 }
 -------------------------------------------------------------------------
-Object class ka real instance hota hai. Matlab jo bhi class hum banate hain, uska actual use tabhi hota hai jab hum uska object (instance) create karte hain.
+Object class ka real instance hota hai. Matlab jo bhi class hum banate hain, 
+uska actual use tabhi hota hai jab hum uska object (instance) create karte hain.
 
 Kab Use Hota Hai?
 Jab class ke andar defined properties aur methods ko access karna ho.
