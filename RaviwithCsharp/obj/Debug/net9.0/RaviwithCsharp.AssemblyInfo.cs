@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaviwithCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e739e73c5a8a8126edc184be0297a1eb579b713")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6a8a6eb87f14382e26703691ad97796d88544f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaviwithCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaviwithCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
