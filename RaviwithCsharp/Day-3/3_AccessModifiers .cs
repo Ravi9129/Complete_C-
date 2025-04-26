@@ -13,7 +13,7 @@ namespace RaviwithCsharp.Day-3
 ------------------------------------------------------------------------
 1. Public (Sab Jagah Accessible)
 ✅ Example: Ek utility method jo kisi bhi class se access ho sake.
-
+ 
 public class Utility  
 {  
     public void PrintMessage(string message)  
